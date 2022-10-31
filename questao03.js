@@ -1,7 +1,7 @@
-/*3) Dado um vetor que guarda o price de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
-• O menor price de faturamento ocorrido em um day do mês;
-• O maior price de faturamento ocorrido em um day do mês;
-• Número de days no mês em que o price de faturamento diário foi superior à méday mensal.
+/*3) Dado um vetor que guarda o preço de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
+• O menor preço de faturamento ocorrido em um dia do mês;
+• O maior preço de faturamento ocorrido em um dia do mês;
+• Número de dias no mês em que o preço de faturamento diário foi superior à média mensal.
 
 IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;

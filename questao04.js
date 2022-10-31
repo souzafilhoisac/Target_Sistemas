@@ -38,7 +38,7 @@ let percentageBilling = [];
 for(let price of billing) {
     totalPrice += price.price;
 }
-for(let iten of billing) {
-    percentageBilling.push({state: iten.state, pertentage: ((iten.price / totalPrice)*100).toFixed(2)})
+for(let item of billing) {
+    percentageBilling.push({state: item.state, percentage: ((item.price / totalPrice)*100).toFixed(2)})
 }
 console.log(percentageBilling);
